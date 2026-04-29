@@ -36,8 +36,12 @@
     <ClCompile Include="Seminar08.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Seminar09.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt" />
+    <Text Include="masini_arbore.txt" />
   </ItemGroup>
 </Project>
