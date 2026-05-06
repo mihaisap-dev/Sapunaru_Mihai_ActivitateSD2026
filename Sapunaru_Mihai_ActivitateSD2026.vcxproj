@@ -190,6 +190,7 @@
     <ClCompile Include="Seminar07.c" />
     <ClCompile Include="Seminar08.c" />
     <ClCompile Include="Seminar09.c" />
+    <ClCompile Include="Seminar10.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt" />
