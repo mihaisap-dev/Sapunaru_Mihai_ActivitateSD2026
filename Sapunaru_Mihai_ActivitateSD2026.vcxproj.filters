@@ -42,9 +42,13 @@
     <ClCompile Include="Seminar10.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Seminar11.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt" />
     <Text Include="masini_arbore.txt" />
+    <Text Include="muchii.txt" />
   </ItemGroup>
 </Project>

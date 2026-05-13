@@ -191,10 +191,12 @@
     <ClCompile Include="Seminar08.c" />
     <ClCompile Include="Seminar09.c" />
     <ClCompile Include="Seminar10.c" />
+    <ClCompile Include="Seminar11.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt" />
     <Text Include="masini_arbore.txt" />
+    <Text Include="muchii.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
